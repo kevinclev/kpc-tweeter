@@ -1,2 +1,2 @@
-# kpc_tweeter
+# kpc-tweeter
 The P Stands For Python
