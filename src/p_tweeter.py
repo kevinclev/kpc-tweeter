@@ -27,8 +27,13 @@ for definition in definitions:
 
 # Randomly choose a definition
 p = random.choice(def_list)
+p2 = p.rstrip() 
 
-msg = "The P stands for %s" % p
+# Create and expression to add at the end to make each tweet somewhat unique.
+expressions = [" " + u'\U0001F602', '!', " " + u'\U0001F606', " " + u'\U0001F609']
+expression = random.choice(expressions)
+
+msg = f"The P stands for {p2}{expression}"
 
 # Tweets what the P stands for
 api.update_status(msg)
