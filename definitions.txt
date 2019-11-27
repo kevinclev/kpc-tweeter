@@ -49,7 +49,6 @@ Pope
 Pull Request
 Pager
 Pointing
-Pantry
 Pump
 Plump
 Pry
@@ -57,5 +56,4 @@ Pamper
 Peach
 Potion
 Paste
-Pulp
 Pulp
