@@ -35,3 +35,27 @@ Parser
 Python
 Perl
 Pearl
+Parsec
+Playa Hater
+Pwnd
+Pound
+Parrot
+Protein
+Palace
+Park
+Pastry
+Pan
+Pope
+Pull Request
+Pager
+Pointing
+Pantry
+Pump
+Plump
+Pry
+Pamper
+Peach
+Potion
+Paste
+Pulp
+Pulp
